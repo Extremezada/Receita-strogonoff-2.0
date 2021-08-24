@@ -1,0 +1,1 @@
+# Receitinha básica de strognoff!
